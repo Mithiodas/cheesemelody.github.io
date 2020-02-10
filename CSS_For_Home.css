@@ -484,5 +484,10 @@ nav ul li {
 .dedication {
 	text-align:center;
 	color:#FFFFFF;
-	}
+}
+.peoples {
+	text-align:center;
+	color:#FFFFFF;
+	text-decoration:none;
+}
 }
