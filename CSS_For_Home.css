@@ -17,7 +17,14 @@ body {
 	margin-right: auto;
 	height: 1000px;
 	background-color: #717070;
-	
+}
+.container_dedication {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+	background-color: #717070;
+	margin-top:30px;
 }
 /* Navigation */
 header {
