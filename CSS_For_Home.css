@@ -231,6 +231,7 @@ footer .footer_column p {
 	border: 3px solid #FFFFFF;
 	color: #FFFFFF;
 	transition: all 0.3s linear;
+	text-decoration:none;
 }
 .button:hover {
 	background-color: #FEFEFE;
