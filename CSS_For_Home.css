@@ -71,45 +71,6 @@ ul li:hover a {
 	margin-left: 0px;
 	letter-spacing: 4px;
 }
-
-.dropbutton {
-  background-color: #717070;
-  color:#FFF;
-  font-size: 16px;
-  border: none;
-  font-family: source-sans-pro;
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  background-color:#FFF;
-  position: absolute;
-  z-index: 1;
-}
-
-.dropdown-content a {
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-  font-family: source-sans-pro;
-}
-
-.dropdown-content a:hover {
-	background-color: #ddd;
-}
-
-.dropdown:hover .dropdown-content {
-	display: block;
-}
-
-.dropdown:hover .dropbtn {
-	background-color: #3e8e41;
-}
 /* Hero Section */
 .hero {
 	background-color: ;
