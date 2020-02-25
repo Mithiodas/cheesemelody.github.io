@@ -275,12 +275,15 @@ footer .footer_column p {
 
 .footer_button {
 	text-decoration:none;
-	color:#000000;
+	color:#FFF;
 }
 .button:hover {
 	background-color: #FEFEFE;
 	color: #C4C4C4;
 	cursor: pointer;
+}
+.footer_button:hover {
+	color:#000;
 }
 .copyright {
 	text-align: center;
