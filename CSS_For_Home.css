@@ -176,6 +176,7 @@ ul li:hover a {
 }
 .description_picture{
 	padding-top:100px;
+	float:left;
 }
 .parallax_description {
 	color: #FFFFFF;
