@@ -175,7 +175,7 @@ ul li:hover a {
 	margin-top: 0px;
 }
 .description_picture{
-	padding-top:100px;
+	padding-top:60px;
 	float:left;
 }
 .parallax_description {
@@ -184,9 +184,9 @@ ul li:hover a {
 	float: right;
 	font-weight: lighter;
 	line-height: 23px;
-	width: 60%;
+	width: 40%;
 	margin-top: 0px;
-	margin-right: 0px;
+	margin-right: 10px;
 	margin-bottom: 0px;
 	margin-left: 0px;
 }
