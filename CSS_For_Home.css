@@ -171,12 +171,12 @@ ul li:hover a {
 	color: #FFFFFF;
 	text-align: center;
 	padding-top: 110px;
-	width: 40%;
 	letter-spacing: 2px;
 	margin-top: 0px;
 }
 .description_picture{
 	padding-top:60px;
+	width:40%;
 	float:left;
 }
 .parallax_description {
