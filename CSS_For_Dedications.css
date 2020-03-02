@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/*Body*/
+.container_dedication {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	height: 1000px;
+	background-color: #717070;
+	margin-top:25px;
+}
+.dedication {
+	text-align:center;
+	color:#FFFFFF;
+}
+.peoples {
+	text-align:center;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+h3 {
+	text-align:center;
+	color:#FFFFFF;
+}
