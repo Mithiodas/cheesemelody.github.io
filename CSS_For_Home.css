@@ -173,6 +173,7 @@ ul li:hover a {
 	padding-top: 110px;
 	letter-spacing: 2px;
 	margin-top: 0px;
+	float:right;
 }
 .description_picture{
 	padding-top:60px;
