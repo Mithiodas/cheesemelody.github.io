@@ -23,7 +23,8 @@ header {
 	width: 96%;
 	height: 5%;
 	padding-right: 1px; 
-	position:fixed; 
+	position:fixed;
+	background-color: #772100;
 }
 .logo {
 	color: #fff;
