@@ -178,7 +178,6 @@ ul li:hover a {
 .description_picture{
 	padding-top:60px;
 	float:left;
-	width:60%;
 }
 .parallax_description {
 	color: #FFFFFF;
@@ -190,7 +189,6 @@ ul li:hover a {
 	margin-right: 10px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	width:35%;
 }
 /* More info */
 footer {
